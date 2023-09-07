@@ -181,7 +181,7 @@ section {
 
 .section__text{
     align-self: center;
-    text-align: left;
+    text-align: center;
 }
 
 .section__text p{
@@ -189,7 +189,7 @@ section {
 }
 
 .section__text__p1{
-    text-align: left;
+    text-align: center;
 }
 
 .section__text__p2{
@@ -199,7 +199,7 @@ section {
 
 .title {
     font-size: 3rem;
-    text-align: left;
+    text-align: center;
 }
 
 #socials-container{
